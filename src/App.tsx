@@ -175,7 +175,7 @@ export default function App() {
           <div className="inline-flex items-center justify-center p-3 bg-blue-100 rounded-full mb-2">
             <Scale className="w-8 h-8 text-blue-700" />
           </div>
-          <h1 className="text-4xl font-bold tracking-tight text-slate-900">Legal Case Strategist</h1>
+          <h1 className="text-4xl font-bold tracking-tight text-slate-900">Max Claw Law</h1>
           <p className="text-lg text-slate-600 max-w-2xl mx-auto">
             Upload your case documents, evidence images, and describe your situation. Our AI will analyze the details, identify relevant laws, and provide a strategic resolution plan.
           </p>
